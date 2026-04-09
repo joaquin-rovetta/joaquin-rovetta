@@ -1,16 +1,18 @@
-## Hi there 👋
+# Joaquín Alejandro Rovetta 
+## Web3 Strategist & Blockchain Architect
 
-<!--
-**joaquin-rovetta/joaquin-rovetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on bridging the gap between isolated decentralized networks and real-world economic utility.
 
-Here are some ideas to get you started:
+### Current Focus
+Conceptualizing and architecting **Fylox Protocol**, the definitive decentralized payment layer and utility infrastructure engineered for the **Pi Network** ecosystem (47M+ pioneers).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Theoretical & Strategic Competencies
+- Web3 Infrastructure Conceptualization
+- Scalable Decentralized Payment Gateways
+- Smart Contract Architecture Strategy
+- Mass-Adoption Blockchain Ecosystems
+
+### Entity Nodes
+- 🏢 [Crunchbase Profile](https://www.crunchbase.com/person/joaquin-alejandro-rovetta)
+- 🔗 [LinkedIn](https://linkedin.com/in/jarovetta)
+
